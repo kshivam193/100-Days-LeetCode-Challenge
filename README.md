@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0090-subsets-ii) |
 | [0046-permutations](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0046-permutations) |
 | [0039-combination-sum](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0039-combination-sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Backtracking
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0268-missing-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
 | ------- |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## String
 |  |
 | ------- |
