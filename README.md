@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0268-missing-number) |
 | [0090-subsets-ii](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0191-number-of-1-bits) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0125-valid-palindrome) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
