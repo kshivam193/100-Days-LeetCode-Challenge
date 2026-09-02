@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0035-search-insert-position](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0035-search-insert-position) |
+| [3875-construct-uniform-parity-array-i](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/3875-construct-uniform-parity-array-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0268-missing-number) |
+| [3875-construct-uniform-parity-array-i](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
