@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0268-missing-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/3875-construct-uniform-parity-array-i) |
+| [0009-palindrome-number](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0009-palindrome-number) |
 ## Binary Search
 |  |
 | ------- |
