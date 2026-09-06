@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0169-majority-element) |
 | [0213-house-robber-ii](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0213-house-robber-ii) |
 | [0740-delete-and-earn](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0740-delete-and-earn) |
+| [0001-two-sum](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0001-two-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0169-majority-element) |
 | [0740-delete-and-earn](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0740-delete-and-earn) |
+| [0001-two-sum](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0001-two-sum) |
 ## Math
 |  |
 | ------- |
