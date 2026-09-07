@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0213-house-robber-ii) |
 | [0740-delete-and-earn](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0740-delete-and-earn) |
 | [0001-two-sum](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0014-longest-common-prefix) |
 ## Backtracking
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0058-length-of-last-word](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0058-length-of-last-word) |
+| [0014-longest-common-prefix](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0014-longest-common-prefix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0169-majority-element) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
