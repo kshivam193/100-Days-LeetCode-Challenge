@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0014-longest-common-prefix) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [0139-word-break](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0139-word-break) |
 ## Backtracking
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0740-delete-and-earn) |
 | [0001-two-sum](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0001-two-sum) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [0139-word-break](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0139-word-break) |
 ## Math
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0058-length-of-last-word](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0058-length-of-last-word) |
 | [0014-longest-common-prefix](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0139-word-break) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0213-house-robber-ii) |
 | [0740-delete-and-earn](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0740-delete-and-earn) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [0139-word-break](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0139-word-break) |
 ## Queue
 |  |
 | ------- |
@@ -115,4 +119,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
