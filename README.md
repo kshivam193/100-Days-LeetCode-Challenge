@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0740-delete-and-earn) |
 | [0001-two-sum](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0014-longest-common-prefix) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Backtracking
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0169-majority-element) |
 | [0740-delete-and-earn](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0740-delete-and-earn) |
 | [0001-two-sum](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0001-two-sum) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Math
 |  |
 | ------- |
@@ -57,12 +59,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0268-missing-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0035-search-insert-position](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0035-search-insert-position) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Sorting
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0268-missing-number) |
 | [0088-merge-sorted-array](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0169-majority-element) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0283-move-zeroes) |
 | [0088-merge-sorted-array](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0088-merge-sorted-array) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## String
 |  |
 | ------- |
@@ -90,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0213-house-robber-ii) |
 | [0740-delete-and-earn](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0740-delete-and-earn) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Queue
 |  |
 | ------- |
@@ -99,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0169-majority-element](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0169-majority-element) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
