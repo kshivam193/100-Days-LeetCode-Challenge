@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0014-longest-common-prefix) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [0139-word-break](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0139-word-break) |
+| [0983-minimum-cost-for-tickets](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0983-minimum-cost-for-tickets) |
 ## Backtracking
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0740-delete-and-earn) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [0139-word-break](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0139-word-break) |
+| [0983-minimum-cost-for-tickets](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0983-minimum-cost-for-tickets) |
 ## Queue
 |  |
 | ------- |
