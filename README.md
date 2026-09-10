@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [0139-word-break](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0139-word-break) |
 | [0983-minimum-cost-for-tickets](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0983-minimum-cost-for-tickets) |
+| [0136-single-number](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0136-single-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0268-missing-number) |
 | [0090-subsets-ii](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0191-number-of-1-bits) |
+| [0136-single-number](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
