@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0046-permutations) |
 | [0039-combination-sum](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0039-combination-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0001-two-sum) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [0139-word-break](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0139-word-break) |
+| [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 ## Math
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0139-word-break) |
 | [0344-reverse-string](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0344-reverse-string) |
+| [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0139-word-break) |
 | [0983-minimum-cost-for-tickets](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0983-minimum-cost-for-tickets) |
 | [1043-partition-array-for-maximum-sum](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1043-partition-array-for-maximum-sum) |
+| [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 ## Queue
 |  |
 | ------- |
