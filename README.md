@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0983-minimum-cost-for-tickets) |
 | [0136-single-number](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0136-single-number) |
 | [1043-partition-array-for-maximum-sum](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1043-partition-array-for-maximum-sum) |
+| [0977-squares-of-a-sorted-array](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0977-squares-of-a-sorted-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0169-majority-element) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [0977-squares-of-a-sorted-array](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0088-merge-sorted-array) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [0344-reverse-string](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
