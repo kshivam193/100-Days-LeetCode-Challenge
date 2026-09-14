@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0136-single-number) |
 | [1043-partition-array-for-maximum-sum](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1043-partition-array-for-maximum-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0977-squares-of-a-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 ## Backtracking
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [0139-word-break](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0139-word-break) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
+| [0349-intersection-of-two-arrays](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0035-search-insert-position](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0035-search-insert-position) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [0349-intersection-of-two-arrays](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0169-majority-element) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [0977-squares-of-a-sorted-array](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0977-squares-of-a-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -89,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [0344-reverse-string](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0977-squares-of-a-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
