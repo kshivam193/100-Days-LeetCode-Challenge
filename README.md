@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0139-word-break) |
 | [0344-reverse-string](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0344-reverse-string) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
+| [1143-longest-common-subsequence](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1143-longest-common-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0983-minimum-cost-for-tickets) |
 | [1043-partition-array-for-maximum-sum](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1043-partition-array-for-maximum-sum) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
+| [1143-longest-common-subsequence](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1143-longest-common-subsequence) |
 ## Queue
 |  |
 | ------- |
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0139-word-break) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
