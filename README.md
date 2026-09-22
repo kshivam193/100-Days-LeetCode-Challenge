@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0977-squares-of-a-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0063-unique-paths-ii](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0063-unique-paths-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [1143-longest-common-subsequence](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1143-longest-common-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0516-longest-palindromic-subsequence) |
+| [0063-unique-paths-ii](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0063-unique-paths-ii) |
 ## Queue
 |  |
 | ------- |
@@ -190,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0226-invert-binary-tree) |
 | [0112-path-sum](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0112-path-sum) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
