@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [1143-longest-common-subsequence](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1143-longest-common-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0516-longest-palindromic-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0583-delete-operation-for-two-strings) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0063-unique-paths-ii) |
 | [0062-unique-paths](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0062-unique-paths) |
 | [1035-uncrossed-lines](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1035-uncrossed-lines) |
+| [0583-delete-operation-for-two-strings](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0583-delete-operation-for-two-strings) |
 ## Queue
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1143-longest-common-subsequence) |
 | [1035-uncrossed-lines](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1035-uncrossed-lines) |
+| [0583-delete-operation-for-two-strings](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0583-delete-operation-for-two-strings) |
 ## Tree
 |  |
 | ------- |
