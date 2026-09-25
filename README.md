@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0063-unique-paths-ii) |
 | [1035-uncrossed-lines](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1035-uncrossed-lines) |
 | [0189-rotate-array](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0189-rotate-array) |
+| [0739-daily-temperatures](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0739-daily-temperatures) |
 ## Backtracking
 |  |
 | ------- |
@@ -223,4 +224,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0543-diameter-of-binary-tree) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
