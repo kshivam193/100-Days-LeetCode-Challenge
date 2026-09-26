@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-uncrossed-lines](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1035-uncrossed-lines) |
 | [0189-rotate-array](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0189-rotate-array) |
 | [0739-daily-temperatures](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0739-daily-temperatures) |
+| [0646-maximum-length-of-pair-chain](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0646-maximum-length-of-pair-chain) |
 ## Backtracking
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0977-squares-of-a-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0646-maximum-length-of-pair-chain](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0646-maximum-length-of-pair-chain) |
 ## Two Pointers
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0097-interleaving-string](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0097-interleaving-string) |
+| [0646-maximum-length-of-pair-chain](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0646-maximum-length-of-pair-chain) |
 ## Queue
 |  |
 | ------- |
@@ -232,4 +235,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0739-daily-temperatures) |
+## Greedy
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0646-maximum-length-of-pair-chain) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
