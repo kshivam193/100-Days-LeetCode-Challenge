@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3871-count-commas-in-range-ii](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/3871-count-commas-in-range-ii) |
 | [0062-unique-paths](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0189-rotate-array) |
+| [0069-sqrtx](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0069-sqrtx) |
 ## Binary Search
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [0349-intersection-of-two-arrays](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0069-sqrtx](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0069-sqrtx) |
 ## Sorting
 |  |
 | ------- |
@@ -243,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0646-maximum-length-of-pair-chain) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
