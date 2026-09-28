@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0189-rotate-array) |
 | [0739-daily-temperatures](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0739-daily-temperatures) |
 | [0646-maximum-length-of-pair-chain](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0646-maximum-length-of-pair-chain) |
+| [0027-remove-element](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0027-remove-element) |
 ## Backtracking
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0189-rotate-array](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0189-rotate-array) |
+| [0027-remove-element](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0027-remove-element) |
 ## String
 |  |
 | ------- |
