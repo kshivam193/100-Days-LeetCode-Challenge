@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0039-combination-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
+| [0022-generate-parentheses](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0022-generate-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0097-interleaving-string](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0097-interleaving-string) |
 | [0071-simplify-path](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0071-simplify-path) |
+| [0022-generate-parentheses](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0022-generate-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0097-interleaving-string](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0097-interleaving-string) |
 | [0646-maximum-length-of-pair-chain](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0646-maximum-length-of-pair-chain) |
+| [0022-generate-parentheses](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0022-generate-parentheses) |
 ## Queue
 |  |
 | ------- |
@@ -254,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0069-sqrtx) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
