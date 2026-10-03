@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [0349-intersection-of-two-arrays](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0202-happy-number](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0202-happy-number) |
 ## Math
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0069-sqrtx) |
 | [2769-find-the-maximum-achievable-number](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2769-find-the-maximum-achievable-number) |
 | [0066-plus-one](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0202-happy-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0189-rotate-array](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0189-rotate-array) |
 | [0027-remove-element](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0027-remove-element) |
+| [0202-happy-number](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -269,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0022-generate-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
