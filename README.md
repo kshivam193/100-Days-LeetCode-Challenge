@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2769-find-the-maximum-achievable-number](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2769-find-the-maximum-achievable-number) |
 | [0066-plus-one](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0202-happy-number) |
+| [0171-excel-sheet-column-number](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0171-excel-sheet-column-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0097-interleaving-string) |
 | [0071-simplify-path](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0071-simplify-path) |
 | [0022-generate-parentheses](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0022-generate-parentheses) |
+| [0171-excel-sheet-column-number](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0171-excel-sheet-column-number) |
 ## Divide and Conquer
 |  |
 | ------- |
