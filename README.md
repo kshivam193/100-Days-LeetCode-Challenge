@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0191-number-of-1-bits) |
 | [0136-single-number](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0190-reverse-bits) |
 ## Hash Table
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0191-number-of-1-bits) |
 | [0169-majority-element](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0190-reverse-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
