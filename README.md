@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0066-plus-one) |
 | [0119-pascals-triangle-ii](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0119-pascals-triangle-ii) |
 | [0239-sliding-window-maximum](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0239-sliding-window-maximum) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Backtracking
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0202-happy-number](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0205-isomorphic-strings) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Math
 |  |
 | ------- |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0239-sliding-window-maximum) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
