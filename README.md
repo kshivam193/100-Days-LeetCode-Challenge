@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [0066-plus-one](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0066-plus-one) |
 | [0119-pascals-triangle-ii](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0119-pascals-triangle-ii) |
+| [0239-sliding-window-maximum](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0239-sliding-window-maximum) |
 ## Backtracking
 |  |
 | ------- |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0387-first-unique-character-in-a-string) |
+| [0239-sliding-window-maximum](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0239-sliding-window-maximum) |
 ## Counting
 |  |
 | ------- |
@@ -282,4 +284,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0202-happy-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
