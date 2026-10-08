@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0119-pascals-triangle-ii) |
 | [0239-sliding-window-maximum](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0239-sliding-window-maximum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [0053-maximum-subarray](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0053-maximum-subarray) |
 ## Backtracking
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0191-number-of-1-bits) |
 | [0169-majority-element](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0190-reverse-bits) |
+| [0053-maximum-subarray](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0053-maximum-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0022-generate-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [0119-pascals-triangle-ii](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0119-pascals-triangle-ii) |
+| [0053-maximum-subarray](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0053-maximum-subarray) |
 ## Queue
 |  |
 | ------- |
