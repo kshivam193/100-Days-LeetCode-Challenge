@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0022-generate-parentheses) |
 | [0171-excel-sheet-column-number](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0205-isomorphic-strings) |
+| [1021-remove-outermost-parentheses](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1021-remove-outermost-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0739-daily-temperatures](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0739-daily-temperatures) |
 | [0071-simplify-path](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0071-simplify-path) |
+| [1021-remove-outermost-parentheses](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0022-generate-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [1021-remove-outermost-parentheses](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1021-remove-outermost-parentheses) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
