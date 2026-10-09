@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0239-sliding-window-maximum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [0053-maximum-subarray](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0053-maximum-subarray) |
+| [2733-neither-minimum-nor-maximum](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2733-neither-minimum-nor-maximum) |
 ## Backtracking
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0646-maximum-length-of-pair-chain) |
+| [2733-neither-minimum-nor-maximum](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2733-neither-minimum-nor-maximum) |
 ## Two Pointers
 |  |
 | ------- |
