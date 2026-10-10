@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0202-happy-number) |
 | [0171-excel-sheet-column-number](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0171-excel-sheet-column-number) |
+| [0412-fizz-buzz](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0412-fizz-buzz) |
 ## Binary Search
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0205-isomorphic-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1021-remove-outermost-parentheses) |
+| [0412-fizz-buzz](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0412-fizz-buzz) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -311,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0239-sliding-window-maximum) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
