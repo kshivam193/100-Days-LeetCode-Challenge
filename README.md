@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0053-maximum-subarray) |
 | [2733-neither-minimum-nor-maximum](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2733-neither-minimum-nor-maximum) |
 | [0011-container-with-most-water](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0011-container-with-most-water) |
+| [0064-minimum-path-sum](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0064-minimum-path-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [0119-pascals-triangle-ii](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0119-pascals-triangle-ii) |
 | [0053-maximum-subarray](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0064-minimum-path-sum) |
 ## Queue
 |  |
 | ------- |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0063-unique-paths-ii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [0064-minimum-path-sum](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0064-minimum-path-sum) |
 ## Combinatorics
 |  |
 | ------- |
