@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2733-neither-minimum-nor-maximum](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2733-neither-minimum-nor-maximum) |
 | [0011-container-with-most-water](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0011-container-with-most-water) |
 | [0064-minimum-path-sum](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0120-triangle) |
 ## Backtracking
 |  |
 | ------- |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0119-pascals-triangle-ii) |
 | [0053-maximum-subarray](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0120-triangle) |
 ## Queue
 |  |
 | ------- |
