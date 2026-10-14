@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0120-triangle) |
 | [0931-minimum-falling-path-sum](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0931-minimum-falling-path-sum) |
+| [0741-cherry-pickup](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0741-cherry-pickup) |
 ## Backtracking
 |  |
 | ------- |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0120-triangle) |
 | [0931-minimum-falling-path-sum](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0931-minimum-falling-path-sum) |
+| [0741-cherry-pickup](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0741-cherry-pickup) |
 ## Queue
 |  |
 | ------- |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [0064-minimum-path-sum](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0064-minimum-path-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0931-minimum-falling-path-sum) |
+| [0741-cherry-pickup](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0741-cherry-pickup) |
 ## Combinatorics
 |  |
 | ------- |
