@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0202-happy-number) |
 | [0171-excel-sheet-column-number](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0171-excel-sheet-column-number) |
 | [0412-fizz-buzz](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0412-fizz-buzz) |
+| [2469-convert-the-temperature](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2469-convert-the-temperature) |
 ## Binary Search
 |  |
 | ------- |
