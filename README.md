@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0931-minimum-falling-path-sum) |
 | [0741-cherry-pickup](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0741-cherry-pickup) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2574-left-and-right-sum-differences](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2574-left-and-right-sum-differences) |
 ## Backtracking
 |  |
 | ------- |
@@ -346,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
