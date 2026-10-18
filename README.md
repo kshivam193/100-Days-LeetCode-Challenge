@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0191-number-of-1-bits) |
 | [0136-single-number](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0190-reverse-bits) |
+| [0389-find-the-difference](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0389-find-the-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0205-isomorphic-strings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [0389-find-the-difference](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0389-find-the-difference) |
 ## Math
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0646-maximum-length-of-pair-chain) |
 | [2733-neither-minimum-nor-maximum](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2733-neither-minimum-nor-maximum) |
+| [0389-find-the-difference](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0389-find-the-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0205-isomorphic-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1021-remove-outermost-parentheses) |
 | [0412-fizz-buzz](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0412-fizz-buzz) |
+| [0389-find-the-difference](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
