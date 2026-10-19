@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0741-cherry-pickup) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2574-left-and-right-sum-differences](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2574-left-and-right-sum-differences) |
+| [0643-maximum-average-subarray-i](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0643-maximum-average-subarray-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0239-sliding-window-maximum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [0643-maximum-average-subarray-i](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0643-maximum-average-subarray-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
