@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2574-left-and-right-sum-differences](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2574-left-and-right-sum-differences) |
 | [0643-maximum-average-subarray-i](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0643-maximum-average-subarray-i) |
+| [0219-contains-duplicate-ii](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0219-contains-duplicate-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [0389-find-the-difference](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0389-find-the-difference) |
 | [0290-word-pattern](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0290-word-pattern) |
+| [0219-contains-duplicate-ii](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0219-contains-duplicate-ii) |
 ## Math
 |  |
 | ------- |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0239-sliding-window-maximum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [0643-maximum-average-subarray-i](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0643-maximum-average-subarray-i) |
+| [0219-contains-duplicate-ii](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0219-contains-duplicate-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
