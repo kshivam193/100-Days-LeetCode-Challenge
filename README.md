@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0171-excel-sheet-column-number) |
 | [0412-fizz-buzz](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0412-fizz-buzz) |
 | [2469-convert-the-temperature](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2469-convert-the-temperature) |
+| [0367-valid-perfect-square](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0367-valid-perfect-square) |
 ## Binary Search
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0069-sqrtx](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0367-valid-perfect-square) |
 ## Sorting
 |  |
 | ------- |
