@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0412-fizz-buzz) |
 | [0389-find-the-difference](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0389-find-the-difference) |
 | [0290-word-pattern](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0290-word-pattern) |
+| [0520-detect-capital](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0520-detect-capital) |
 ## Divide and Conquer
 |  |
 | ------- |
