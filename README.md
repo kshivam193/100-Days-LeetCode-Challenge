@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2574-left-and-right-sum-differences) |
 | [0643-maximum-average-subarray-i](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0643-maximum-average-subarray-i) |
 | [0219-contains-duplicate-ii](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0219-contains-duplicate-ii) |
+| [1051-height-checker](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1051-height-checker) |
 ## Backtracking
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0646-maximum-length-of-pair-chain) |
 | [2733-neither-minimum-nor-maximum](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2733-neither-minimum-nor-maximum) |
 | [0389-find-the-difference](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0389-find-the-difference) |
+| [1051-height-checker](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1051-height-checker) |
 ## Two Pointers
 |  |
 | ------- |
@@ -366,4 +368,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2574-left-and-right-sum-differences) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
