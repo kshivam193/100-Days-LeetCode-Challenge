@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0643-maximum-average-subarray-i) |
 | [0219-contains-duplicate-ii](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0219-contains-duplicate-ii) |
 | [1051-height-checker](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1051-height-checker) |
+| [1207-unique-number-of-occurrences](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1207-unique-number-of-occurrences) |
 ## Backtracking
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0389-find-the-difference) |
 | [0290-word-pattern](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0290-word-pattern) |
 | [0219-contains-duplicate-ii](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0219-contains-duplicate-ii) |
+| [1207-unique-number-of-occurrences](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1207-unique-number-of-occurrences) |
 ## Math
 |  |
 | ------- |
