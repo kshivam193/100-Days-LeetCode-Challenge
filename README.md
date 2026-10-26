@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0219-contains-duplicate-ii) |
 | [1051-height-checker](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1207-unique-number-of-occurrences) |
+| [1528-shuffle-string](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1528-shuffle-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0290-word-pattern) |
 | [0520-detect-capital](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0520-detect-capital) |
 | [1108-defanging-an-ip-address](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1108-defanging-an-ip-address) |
+| [1528-shuffle-string](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1528-shuffle-string) |
 ## Divide and Conquer
 |  |
 | ------- |
