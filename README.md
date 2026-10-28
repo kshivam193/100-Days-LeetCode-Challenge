@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0190-reverse-bits) |
 | [0389-find-the-difference](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0389-find-the-difference) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0367-valid-perfect-square) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Binary Search
 |  |
 | ------- |
