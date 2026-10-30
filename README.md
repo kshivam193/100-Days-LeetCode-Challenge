@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1528-shuffle-string) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1512-number-of-good-pairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0290-word-pattern) |
 | [0219-contains-duplicate-ii](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0219-contains-duplicate-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1207-unique-number-of-occurrences) |
+| [1512-number-of-good-pairs](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1512-number-of-good-pairs) |
 ## Math
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1512-number-of-good-pairs](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1512-number-of-good-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0169-majority-element](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0169-majority-element) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [1512-number-of-good-pairs](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1512-number-of-good-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
