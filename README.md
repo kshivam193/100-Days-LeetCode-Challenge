@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0219-contains-duplicate-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1512-number-of-good-pairs) |
+| [0771-jewels-and-stones](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0771-jewels-and-stones) |
 ## Math
 |  |
 | ------- |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1528-shuffle-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0771-jewels-and-stones) |
 ## Divide and Conquer
 |  |
 | ------- |
