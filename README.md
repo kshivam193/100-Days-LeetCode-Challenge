@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1512-number-of-good-pairs) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 ## Backtracking
 |  |
 | ------- |
