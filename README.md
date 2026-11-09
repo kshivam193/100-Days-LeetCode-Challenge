@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [1436-destination-city](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1436-destination-city) |
 ## Backtracking
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1512-number-of-good-pairs) |
 | [0771-jewels-and-stones](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0771-jewels-and-stones) |
+| [1436-destination-city](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1436-destination-city) |
 ## Math
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1768-merge-strings-alternately) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [1436-destination-city](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1436-destination-city) |
 ## Divide and Conquer
 |  |
 | ------- |
