@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1512-number-of-good-pairs) |
 | [0771-jewels-and-stones](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0771-jewels-and-stones) |
 | [1436-destination-city](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1436-destination-city) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Math
 |  |
 | ------- |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1768-merge-strings-alternately) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [1436-destination-city](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1436-destination-city) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Divide and Conquer
 |  |
 | ------- |
