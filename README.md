@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [1436-destination-city](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1436-destination-city) |
+| [0414-third-maximum-number](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0414-third-maximum-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0389-find-the-difference) |
 | [1051-height-checker](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [0414-third-maximum-number](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0414-third-maximum-number) |
 ## Two Pointers
 |  |
 | ------- |
