@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [1436-destination-city](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1436-destination-city) |
 | [0414-third-maximum-number](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0414-third-maximum-number) |
+| [1748-sum-of-unique-elements](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1748-sum-of-unique-elements) |
 ## Backtracking
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0771-jewels-and-stones) |
 | [1436-destination-city](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1436-destination-city) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1748-sum-of-unique-elements](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1748-sum-of-unique-elements) |
 ## Math
 |  |
 | ------- |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0169-majority-element) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [1512-number-of-good-pairs](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1748-sum-of-unique-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
