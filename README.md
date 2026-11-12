@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1436-destination-city) |
 | [0414-third-maximum-number](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0414-third-maximum-number) |
 | [1748-sum-of-unique-elements](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1748-sum-of-unique-elements) |
+| [1816-truncate-sentence](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1816-truncate-sentence) |
 ## Backtracking
 |  |
 | ------- |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [1436-destination-city](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1436-destination-city) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1816-truncate-sentence](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1816-truncate-sentence) |
 ## Divide and Conquer
 |  |
 | ------- |
