@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1816-truncate-sentence) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Backtracking
 |  |
 | ------- |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1436-destination-city) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1816-truncate-sentence](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1816-truncate-sentence) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0412-fizz-buzz) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Binary Indexed Tree
 |  |
 | ------- |
