@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1816-truncate-sentence](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1816-truncate-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [1678-goal-parser-interpretation](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1678-goal-parser-interpretation) |
 ## Divide and Conquer
 |  |
 | ------- |
