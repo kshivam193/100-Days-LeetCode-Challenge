@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2119-a-number-after-a-double-reversal](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2119-a-number-after-a-double-reversal) |
 ## Binary Search
 |  |
 | ------- |
