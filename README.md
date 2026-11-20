@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1436-destination-city) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1748-sum-of-unique-elements](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1748-sum-of-unique-elements) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Math
 |  |
 | ------- |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [1678-goal-parser-interpretation](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1678-goal-parser-interpretation) |
 | [2000-reverse-prefix-of-word](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2000-reverse-prefix-of-word) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [1512-number-of-good-pairs](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1748-sum-of-unique-elements) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
