@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [1920-build-array-from-permutation](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1920-build-array-from-permutation) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Backtracking
 |  |
 | ------- |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1678-goal-parser-interpretation) |
 | [2000-reverse-prefix-of-word](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2000-reverse-prefix-of-word) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -439,4 +441,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1051-height-checker) |
+## String Matching
+|  |
+| ------- |
+| [2185-counting-words-with-a-given-prefix](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2185-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
