@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [1920-build-array-from-permutation](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1920-build-array-from-permutation) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Backtracking
 |  |
 | ------- |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [0414-third-maximum-number](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0414-third-maximum-number) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Two Pointers
 |  |
 | ------- |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0646-maximum-length-of-pair-chain) |
 | [0011-container-with-most-water](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0011-container-with-most-water) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1051-height-checker) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Bubble Sort
 |  |
 | ------- |
