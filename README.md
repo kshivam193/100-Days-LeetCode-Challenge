@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1920-build-array-from-permutation) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2032-two-out-of-three](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2032-two-out-of-three) |
 ## Backtracking
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0190-reverse-bits) |
 | [0389-find-the-difference](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2032-two-out-of-three](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2032-two-out-of-three) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1748-sum-of-unique-elements](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2032-two-out-of-three](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2032-two-out-of-three) |
 ## Math
 |  |
 | ------- |
