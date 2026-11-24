@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2032-two-out-of-three](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2032-two-out-of-three) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 ## Math
 |  |
 | ------- |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2000-reverse-prefix-of-word) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2185-counting-words-with-a-given-prefix) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
