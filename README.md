@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2032-two-out-of-three](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2032-two-out-of-three) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2119-a-number-after-a-double-reversal) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -457,4 +459,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2185-counting-words-with-a-given-prefix](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2185-counting-words-with-a-given-prefix) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
