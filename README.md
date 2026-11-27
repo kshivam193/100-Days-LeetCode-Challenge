@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2119-a-number-after-a-double-reversal](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2119-a-number-after-a-double-reversal) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [0414-third-maximum-number](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0414-third-maximum-number) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0646-maximum-length-of-pair-chain) |
 | [0011-container-with-most-water](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/0011-container-with-most-water) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/kshivam193/100-Days-LeetCode-Challenge/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
